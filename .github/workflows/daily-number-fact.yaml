@@ -2,7 +2,7 @@ name: Daily Date Fact
 
 on:
   schedule:
-    - cron: "20 16 * * *"
+    - cron: "30 17 * * *"
 
 jobs:
   build:

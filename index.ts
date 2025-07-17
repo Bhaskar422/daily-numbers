@@ -46,7 +46,7 @@ const updateReadme = async ({
   try {
     const formattedDate = `${day}${daySuffix} ${currendDate.toLocaleString("default", {
       month: "long",
-    })} ${currendDate.getFullYear()}`;
+    })}`;
 
     let randomFact = `${randomNumberData}`;
     let dateFact = `${dayData}`;
