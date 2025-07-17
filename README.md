@@ -1,4 +1,3 @@
-
 # A Noted Fact about the Date - 17th July 2025
 
 > **Fact:** July 17th is the day in 1981 that a structural failure leads to the collapse of a walkway at the Hyatt Regency in Kansas City, Missouri killing 114 people and injuring more than 200.
