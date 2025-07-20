@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 18th July
+# A Noted Fact about the Date - 20th July
 
-> **Fact:** July 18th is the day in 1555 that the College of Arms was reincorporated by Royal Charter signed by Queen Mary I of England and King Philip II of Spain.
+> **Fact:** July 20th is the day in 1977 that the Central Intelligence Agency releases documents under the Freedom of Information Act revealing it had engaged in mind control experiments.
 
-> **Fact about a random number:** 12 is the number of ounces in a troy pound (used for precious metals).
+> **Fact about a random number:** 72 is the speed in miles per hour that cheetahs, the fastest land animal, can reach.
 
 > This README is automatically updated with a fact about a day.
