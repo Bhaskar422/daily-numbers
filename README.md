@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 22nd July
+# A Noted Fact about the Date - 23rd July
 
-> **Fact:** July 22nd is the day in 1933 that Wiley Post becomes the first person to fly solo around the world traveling 15,596 miles (25,099 km) in 7 days, 18 hours and 45 minutes.
+> **Fact:** July 23rd is the day in 1908 that the Second Constitution accepted by the Ottomans.
 
-> **Fact about a random number:** 43 is the maximum number of cars participating in a NASCAR race in the Cup Series or Nationwide Series.
+> **Fact about a random number:** 55 is the highest speed limit allowed in the United States between 1974 and 1986 per the National Maximum Speed Law.
 
 > This README is automatically updated with a fact about a day.
