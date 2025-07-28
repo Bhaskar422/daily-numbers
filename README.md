@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 27th July
+# A Noted Fact about the Date - 28th July
 
-> **Fact:** July 27th is the day in 1917 that the Allies reach the Yser Canal at the Battle of Passchendaele.
+> **Fact:** July 28th is the day in 1935 that First flight of the Boeing B-17 Flying Fortress.
 
-> **Fact about a random number:** 9 is the number of circles of Hell in Dante's Divine Comedy.
+> **Fact about a random number:** 26 is the number of spacetime dimensions in bosonic string theory.
 
 > This README is automatically updated with a fact about a day.
