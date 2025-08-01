@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 31st July
+# A Noted Fact about the Date - 1st August
 
-> **Fact:** July 31st is the day in 1856 that Christchurch, New Zealand is chartered as a city.
+> **Fact:** August 1st is the day in 1664 that the Ottoman Empire is defeated in the Battle of Saint Gotthard by an Austrian army led by Raimondo Montecuccoli, resulting in the Peace of Vasvár.
 
-> **Fact about a random number:** 37 is the cost in cents of the Whopper Sandwich when Burger King first introduced it in 1957.
+> **Fact about a random number:** 83 is the highest UHF channel on older televisions made before the late 1970s.
 
 > This README is automatically updated with a fact about a day.
