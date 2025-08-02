@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 1st August
+# A Noted Fact about the Date - 2nd August
 
-> **Fact:** August 1st is the day in 1664 that the Ottoman Empire is defeated in the Battle of Saint Gotthard by an Austrian army led by Raimondo Montecuccoli, resulting in the Peace of Vasvár.
+> **Fact:** August 2nd is the day in 1989 that Pakistan is re-admitted to the Commonwealth of Nations after having restoring democracy for the first time since 1972.
 
-> **Fact about a random number:** 83 is the highest UHF channel on older televisions made before the late 1970s.
+> **Fact about a random number:** 21 is the number of points required to win a game in badminton and table tennis (before 2001).
 
 > This README is automatically updated with a fact about a day.
