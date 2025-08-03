@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 2nd August
+# A Noted Fact about the Date - 3rd August
 
-> **Fact:** August 2nd is the day in 1989 that Pakistan is re-admitted to the Commonwealth of Nations after having restoring democracy for the first time since 1972.
+> **Fact:** August 3rd is the day in 1936 that Jesse Owens wins the 100 meter dash, defeating Ralph Metcalfe, at the Berlin Olympics.
 
-> **Fact about a random number:** 21 is the number of points required to win a game in badminton and table tennis (before 2001).
+> **Fact about a random number:** 97 is the number of minutes it takes the Hubble space telescope to complete an orbit around the Earth.
 
 > This README is automatically updated with a fact about a day.
