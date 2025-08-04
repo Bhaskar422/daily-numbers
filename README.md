@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 3rd August
+# A Noted Fact about the Date - 4th August
 
-> **Fact:** August 3rd is the day in 1936 that Jesse Owens wins the 100 meter dash, defeating Ralph Metcalfe, at the Berlin Olympics.
+> **Fact:** August 4th is the day in 1906 that Central Railway Station, Sydney opens.
 
-> **Fact about a random number:** 97 is the number of minutes it takes the Hubble space telescope to complete an orbit around the Earth.
+> **Fact about a random number:** 59 is the number corresponding to the last minute in a given hour.
 
 > This README is automatically updated with a fact about a day.
