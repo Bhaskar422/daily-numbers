@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 14th August
+# A Noted Fact about the Date - 15th August
 
-> **Fact:** August 14th is the day in 1972 that an East German Ilyushin Il-62 crashes during takeoff from East Berlin, killing 156.
+> **Fact:** August 15th is the day in 1969 that the Woodstock Music and Art Festival opens.
 
-> **Fact about a random number:** 35 is the basic film gauge in mm most commonly used for both analog photography and motion pictures.
+> **Fact about a random number:** 89 is the number of units of each colour in the board game Blokus.
 
 > This README is automatically updated with a fact about a day.
