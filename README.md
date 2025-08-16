@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 15th August
+# A Noted Fact about the Date - 16th August
 
-> **Fact:** August 15th is the day in 1969 that the Woodstock Music and Art Festival opens.
+> **Fact:** August 16th is the day in 1906 that an estimated 8.2 MW earthquake hits Valparaíso, Chile, killing 3,886 people.
 
-> **Fact about a random number:** 89 is the number of units of each colour in the board game Blokus.
+> **Fact about a random number:** 34 is the lucky number of Victor Pelevin's protagonist Stepan Mikhailov in the novel Numbers.
 
 > This README is automatically updated with a fact about a day.
