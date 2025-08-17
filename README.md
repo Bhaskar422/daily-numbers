@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 16th August
+# A Noted Fact about the Date - 17th August
 
-> **Fact:** August 16th is the day in 1906 that an estimated 8.2 MW earthquake hits Valparaíso, Chile, killing 3,886 people.
+> **Fact:** August 17th is the day in 986 that a Byzantine army is destroyed in the pass of Trajan's Gate by the Bulgarians under the Comitopuli Samuel and Aron.
 
-> **Fact about a random number:** 34 is the lucky number of Victor Pelevin's protagonist Stepan Mikhailov in the novel Numbers.
+> **Fact about a random number:** 61 is the code for international direct dial phone calls to Australia.
 
 > This README is automatically updated with a fact about a day.
