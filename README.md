@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 17th August
+# A Noted Fact about the Date - 18th August
 
-> **Fact:** August 17th is the day in 986 that a Byzantine army is destroyed in the pass of Trajan's Gate by the Bulgarians under the Comitopuli Samuel and Aron.
+> **Fact:** August 18th is the day in 1848 that Camila O'Gorman and Ladislao Gutierrez are executed on the orders of Argentine dictator Juan Manuel de Rosas.
 
-> **Fact about a random number:** 61 is the code for international direct dial phone calls to Australia.
+> **Fact about a random number:** 73 is the favorite number of The Big Bang Theory's character Sheldon Cooper.
 
 > This README is automatically updated with a fact about a day.
