@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 18th August
+# A Noted Fact about the Date - 19th August
 
-> **Fact:** August 18th is the day in 1848 that Camila O'Gorman and Ladislao Gutierrez are executed on the orders of Argentine dictator Juan Manuel de Rosas.
+> **Fact:** August 19th is the day in 1927 that Metropolitan Sergius proclaims the declaration of loyalty of the Russian Orthodox Church to the Soviet Union.
 
-> **Fact about a random number:** 73 is the favorite number of The Big Bang Theory's character Sheldon Cooper.
+> **Fact about a random number:** 45 is the sapphire wedding anniversary in years of marriage.
 
 > This README is automatically updated with a fact about a day.
