@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 20th August
+# A Noted Fact about the Date - 21st August
 
-> **Fact:** August 20th is the day in 1997 that Souhane massacre in Algeria; over 60 people are killed and 15 kidnapped.
+> **Fact:** August 21st is the day in 1680 that Pueblo Indians capture Santa Fe from Spanish during the Pueblo Revolt.
 
-> **Fact about a random number:** 69 is the atomic number of thulium, a lanthanide.
+> **Fact about a random number:** 31 is the number of days in the months January, March, May, July, August, October and December.
 
 > This README is automatically updated with a fact about a day.
