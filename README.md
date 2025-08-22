@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 21st August
+# A Noted Fact about the Date - 22nd August
 
-> **Fact:** August 21st is the day in 1680 that Pueblo Indians capture Santa Fe from Spanish during the Pueblo Revolt.
+> **Fact:** August 22nd is the day in 1138 that Battle of the Standard between Scotland and England.
 
-> **Fact about a random number:** 31 is the number of days in the months January, March, May, July, August, October and December.
+> **Fact about a random number:** 76 is the atomic number of osmium.
 
 > This README is automatically updated with a fact about a day.
