@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 22nd August
+# A Noted Fact about the Date - 23rd August
 
-> **Fact:** August 22nd is the day in 1138 that Battle of the Standard between Scotland and England.
+> **Fact:** August 23rd is the day in 1990 that Armenia declares its independence from the Soviet Union.
 
-> **Fact about a random number:** 76 is the atomic number of osmium.
+> **Fact about a random number:** 62 is the number which Sigmund Freud has an irrational fear of.
 
 > This README is automatically updated with a fact about a day.
