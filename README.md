@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 23rd August
+# A Noted Fact about the Date - 24th August
 
-> **Fact:** August 23rd is the day in 1990 that Armenia declares its independence from the Soviet Union.
+> **Fact:** August 24th is the day in 1875 that Captain Matthew Webb became first person to swim the English Channel.
 
-> **Fact about a random number:** 62 is the number which Sigmund Freud has an irrational fear of.
+> **Fact about a random number:** 99 is the number of names of Allah, the names or attributes of God in the Qur'an.
 
 > This README is automatically updated with a fact about a day.
