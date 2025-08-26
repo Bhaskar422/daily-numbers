@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 25th August
+# A Noted Fact about the Date - 26th August
 
-> **Fact:** August 25th is the day in 1939 that the United Kingdom and Poland form a military alliance in which the UK promises to defend Poland in case of invasion by a foreign power.
+> **Fact:** August 26th is the day in 1818 that Illinois becomes the 21st state in the union of the United States.
 
-> **Fact about a random number:** 19 is the number of years in 235 lunations.
+> **Fact about a random number:** 49 is the number of days and night Siddhartha Gautama spent meditating as a holy man.
 
 > This README is automatically updated with a fact about a day.
