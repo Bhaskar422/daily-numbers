@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 26th August
+# A Noted Fact about the Date - 27th August
 
-> **Fact:** August 26th is the day in 1818 that Illinois becomes the 21st state in the union of the United States.
+> **Fact:** August 27th is the day in 1928 that the Kellogg-Briand Pact outlawing war is signed by the first 15 nations to do so.
 
-> **Fact about a random number:** 49 is the number of days and night Siddhartha Gautama spent meditating as a holy man.
+> **Fact about a random number:** 5 is the number of basic "pillars" of Islam.
 
 > This README is automatically updated with a fact about a day.
