@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 30th August
+# A Noted Fact about the Date - 31st August
 
-> **Fact:** August 30th is the day in 1918 that Fanny Kaplan shoots and seriously injures Bolshevik leader Vladimir Lenin.
+> **Fact:** August 31st is the day in 1940 that Pennsylvania Central Airlines Trip 19 crashes near Lovettsville, Virginia.
 
-> **Fact about a random number:** 21 is the number of demands which were sent to the Chinese government by the Japanese government of Okuma Shigenobu in 1915.
+> **Fact about a random number:** 35 is the minimum age of candidates for election to the United States Presidency.
 
 > This README is automatically updated with a fact about a day.
