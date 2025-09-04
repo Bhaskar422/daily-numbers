@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 3rd September
+# A Noted Fact about the Date - 4th September
 
-> **Fact:** September 3rd is the day in 1999 that an 87-automobile pile-up happens on Highway 401 freeway just East of Windsor, Ontario, Canada after an unusually thick fog from Lake St. Clair.
+> **Fact:** September 4th is the day in 1998 that Google is founded by Larry Page and Sergey Brin, two students at Stanford University.
 
-> **Fact about a random number:** 81 is the number of squares on a shogi playing board.
+> **Fact about a random number:** 55 is the percentage of movies released that are Rated R.
 
 > This README is automatically updated with a fact about a day.
