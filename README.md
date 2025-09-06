@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 5th September
+# A Noted Fact about the Date - 6th September
 
-> **Fact:** September 5th is the day in 1864 that Achille François Bazaine becomes Marshall of France.
+> **Fact:** September 6th is the day in 2009 that the ro-ro ferry SuperFerry 9 sinks off the Zamboanga Peninsula in the Philippines with 971 persons aboard; all but ten are rescued.
 
-> **Fact about a random number:** 88 is the approximate number of days it takes Mercury to complete its orbit.
+> **Fact about a random number:** 16 is the number of personality types in the Myers-Briggs classification system.
 
 > This README is automatically updated with a fact about a day.
