@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 7th September
+# A Noted Fact about the Date - 8th September
 
-> **Fact:** September 7th is the day in 1963 that the Pro Football Hall of Fame opens in Canton, Ohio with 17 charter members.
+> **Fact:** September 8th is the day in 1565 that the Knights of Malta lift the Turkish siege of Malta that began on May 18.
 
-> **Fact about a random number:** 34 is the lucky number of Victor Pelevin's protagonist Stepan Mikhailov in the novel Numbers.
+> **Fact about a random number:** 74 is the number of stars obtained by SpongeBob SquarePants in his driving school.
 
 > This README is automatically updated with a fact about a day.
