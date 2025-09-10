@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 9th September
+# A Noted Fact about the Date - 10th September
 
-> **Fact:** September 9th is the day in 1922 that the Greco-Turkish War of 1919-1922 effectively ends with Turkish victory over the Greeks in Smyrna.
+> **Fact:** September 10th is the day in 1846 that Elias Howe is granted a patent for the sewing machine.
 
-> **Fact about a random number:** 52 is the number of white keys (notes in the C major scale).
+> **Fact about a random number:** 93 is that approximate distance in millions of miles the Sun is away from the Earth.
 
 > This README is automatically updated with a fact about a day.
