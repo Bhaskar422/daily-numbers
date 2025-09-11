@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 10th September
+# A Noted Fact about the Date - 11th September
 
-> **Fact:** September 10th is the day in 1846 that Elias Howe is granted a patent for the sewing machine.
+> **Fact:** September 11th is the day in 1792 that the Hope Diamond is stolen along with other French crown jewels when six men break into the house used to store them.
 
-> **Fact about a random number:** 93 is that approximate distance in millions of miles the Sun is away from the Earth.
+> **Fact about a random number:** 1 is the loneliest number.
 
 > This README is automatically updated with a fact about a day.
