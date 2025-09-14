@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 13th September
+# A Noted Fact about the Date - 14th September
 
-> **Fact:** September 13th is the day in 1898 that Hannibal Goodwin patents celluloid photographic film.
+> **Fact:** September 14th is the day in 1958 that the first two German post-war rockets, designed by the German engineer Ernst Mohr, reach the upper atmosphere.
 
-> **Fact about a random number:** 4 is the number of strings on a violin, a viola, a cello, double bass, a cuatro and a ukulele, and the number of string pairs on a mandolin.
+> **Fact about a random number:** 49 is the number of days and night Siddhartha Gautama spent meditating as a holy man.
 
 > This README is automatically updated with a fact about a day.
