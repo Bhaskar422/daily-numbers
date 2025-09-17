@@ -1,8 +1,8 @@
 
-# A Noted Fact about the Date - 16th September
+# A Noted Fact about the Date - 17th September
 
-> **Fact:** September 16th is the day in 307 that Severus II is captured and imprisoned at Tres Tabernae.
+> **Fact:** September 17th is the day in 1991 that the first version of the Linux kernel (0.01) is released to the Internet.
 
-> **Fact about a random number:** 56 is the number of consecutive games in baseball in which New York Yankees' Joe DiMaggio had a base hit in 1941, still a record.
+> **Fact about a random number:** 20 is the number of questions in the popular party game Twenty Questions.
 
 > This README is automatically updated with a fact about a day.
